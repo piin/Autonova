@@ -16,6 +16,6 @@
   android:textAlignment="center"
   android:textAppearance="?android:attr/textAppearanceLarge"
   android:textStyle="bold"
-  android:textColor="@color/gray2" />
+   />
 
 </RelativeLayout>

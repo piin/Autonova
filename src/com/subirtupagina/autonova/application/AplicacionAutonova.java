@@ -8,7 +8,7 @@ import com.subirtupagina.autonova.utils.AsyncConector;
 
 public class AplicacionAutonova extends Application {
 	//Url del archivo XML
-	private final static String URL = "http://promoandroid.com/kavier.xml";
+	private final static String URL = "http://promoandroid.com/autonova.xml";
 
 	public void updatePublicaciones(ArrayAdapter<Publicacion> lvAdapter) {
 
