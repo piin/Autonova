@@ -21,7 +21,7 @@
         android:contentDescription="@string/imgTituloDescription"
         android:paddingBottom="10dp"
         android:scaleType="fitXY"
-        android:src="@drawable/kavier" />
+        android:src="@drawable/titulo_imagen" />
 
     <Button
         android:id="@+id/btnDiviertete"

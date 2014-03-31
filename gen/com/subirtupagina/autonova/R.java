@@ -71,7 +71,8 @@ public final class R {
         public static final int start=0x7f020020;
         public static final int start_buttonstyle=0x7f020021;
         public static final int start_pressed=0x7f020022;
-        public static final int torso=0x7f020023;
+        public static final int titulo_imagen=0x7f020023;
+        public static final int torso=0x7f020024;
     }
     public static final class id {
         public static final int RelativeLayout1=0x7f0a0005;
