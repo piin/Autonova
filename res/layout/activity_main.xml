@@ -47,7 +47,7 @@
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/imgTitulo"
         android:background="@drawable/fondo_lv"
-        android:divider="@color/blue_listView"
+        android:divider="@color/separacion_listView"
         android:dividerHeight="5dp"
         android:scrollbarStyle="outsideOverlay" >
 
